@@ -20,3 +20,6 @@ git clone: hacerme una copia desde el servidor central asta mi computador;
 git checkout: para revertir 
 
 git diff: para ver la diferencias hechas en los archivos
+
+
+git branch,git checkout login,git branch 'añadir';
