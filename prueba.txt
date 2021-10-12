@@ -1,0 +1,17 @@
+git  init: vamos a mandar a iniciar un proyecto nuevo.
+
+git add: es para pasar los archivos de working directory a stating area 
+
+git status: es para ver en que estado estan mis archivos si de working directory a stating area
+
+git push: para pasarlo a un repositorio remoto
+
+
+git commit : para pasar los los archivos de stating area a un repositorio
+
+
+git pull: trae los cambios del archivo por otros desarrolladores
+
+
+
+git clone: hacerme una copia desde el servidor central asta mi computador;
